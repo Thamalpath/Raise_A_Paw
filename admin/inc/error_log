@@ -1,0 +1,6 @@
+[26-Apr-2021 15:23:10 Asia/Calcutta] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home2/missandm/public_html/ngo.mgnika.com/admin/inc/delete_gallery.php on line 6
+[26-Apr-2021 15:23:10 Asia/Calcutta] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home2/missandm/public_html/ngo.mgnika.com/admin/inc/delete_gallery.php on line 6
+[26-Apr-2021 15:23:10 Asia/Calcutta] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/missandm/public_html/ngo.mgnika.com/admin/inc/delete_gallery.php on line 6
+[26-Apr-2021 15:23:10 Asia/Calcutta] PHP Warning:  include(inc/db1.php): failed to open stream: No such file or directory in /home2/missandm/public_html/ngo.mgnika.com/admin/inc/delete_gallery.php on line 7
+[26-Apr-2021 15:23:10 Asia/Calcutta] PHP Warning:  include(inc/db1.php): failed to open stream: No such file or directory in /home2/missandm/public_html/ngo.mgnika.com/admin/inc/delete_gallery.php on line 7
+[26-Apr-2021 15:23:10 Asia/Calcutta] PHP Warning:  include(): Failed opening 'inc/db1.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/missandm/public_html/ngo.mgnika.com/admin/inc/delete_gallery.php on line 7
